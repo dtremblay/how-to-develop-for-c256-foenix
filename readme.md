@@ -7,6 +7,7 @@ You will need three tools:
 1. 64tass (65816 Assembler)
 2. Notepad++ (Text Editor)
 3. Foenix IDE (Development environment and simulator)
+4. Install Kernel
 
 64tass
 ======
